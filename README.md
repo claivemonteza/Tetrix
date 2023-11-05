@@ -1,6 +1,6 @@
 # Tetrix
 
-##Peças do Tetrix
+### Peças do Tetrix
 
 111
 
@@ -25,7 +25,7 @@ Deverá preencher a matriz[20][10], encaixando as peças sem espaços vazios ent
 A sequencia de encaixe deverá ser o mais abaixo possível e da esquerda para a direita</br>
 </br>
 
-##Notas</br>
+### Notas
 A matriz resultado deverá coincidir com a apresentada à esquerda para a direita e deve ser escrita num ficheiro de texto.</br>
 O ficheiro de texto fornecido -> resultado.txt, deve ser igual ao produzido pelo programa a criar.</br>
 Em caso de dúvidas deve contactar quem for indicado</br>
