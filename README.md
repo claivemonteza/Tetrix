@@ -12,7 +12,7 @@ Peças do Tetrix
 &nbsp; 3
   
 444</br>
-&nbsp;&nbsp; 4
+&nbsp; 4
 
 55</br>
 55
