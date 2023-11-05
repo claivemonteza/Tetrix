@@ -9,10 +9,10 @@ Peças do Tetrix
 2
 
 333 </br>
-&nbsp;3
+&nbsp;&nbsp; 3
   
 444</br>
-&nbsp;4
+&nbsp;&nbsp; 4
 
 55</br>
 55
